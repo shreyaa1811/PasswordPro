@@ -92,6 +92,11 @@ PasswordPro/
 
 ---
 
+## Live Demo
+
+Try the Password Strength Checker app live here:  
+[https://passwordpro.onrender.com](https://passwordpro.onrender.com)
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
